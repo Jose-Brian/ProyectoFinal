@@ -1,0 +1,28 @@
+C:\3er\3er\bin\Debug\net8.0\3er.exe
+C:\3er\3er\bin\Debug\net8.0\3er.deps.json
+C:\3er\3er\bin\Debug\net8.0\3er.runtimeconfig.json
+C:\3er\3er\bin\Debug\net8.0\3er.dll
+C:\3er\3er\bin\Debug\net8.0\3er.pdb
+C:\3er\3er\obj\Debug\net8.0\3er.GeneratedMSBuildEditorConfig.editorconfig
+C:\3er\3er\obj\Debug\net8.0\3er.AssemblyInfoInputs.cache
+C:\3er\3er\obj\Debug\net8.0\3er.AssemblyInfo.cs
+C:\3er\3er\obj\Debug\net8.0\3er.csproj.CoreCompileInputs.cache
+C:\3er\3er\obj\Debug\net8.0\3er.dll
+C:\3er\3er\obj\Debug\net8.0\refint\3er.dll
+C:\3er\3er\obj\Debug\net8.0\3er.pdb
+C:\3er\3er\obj\Debug\net8.0\3er.genruntimeconfig.cache
+C:\3er\3er\obj\Debug\net8.0\ref\3er.dll
+C:\Users\joseb\OneDrive\Documentos\Visual Studio 2022\3er - copia\3er\bin\Debug\net8.0\3er.exe
+C:\Users\joseb\OneDrive\Documentos\Visual Studio 2022\3er - copia\3er\bin\Debug\net8.0\3er.deps.json
+C:\Users\joseb\OneDrive\Documentos\Visual Studio 2022\3er - copia\3er\bin\Debug\net8.0\3er.runtimeconfig.json
+C:\Users\joseb\OneDrive\Documentos\Visual Studio 2022\3er - copia\3er\bin\Debug\net8.0\3er.dll
+C:\Users\joseb\OneDrive\Documentos\Visual Studio 2022\3er - copia\3er\bin\Debug\net8.0\3er.pdb
+C:\Users\joseb\OneDrive\Documentos\Visual Studio 2022\3er - copia\3er\obj\Debug\net8.0\3er.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joseb\OneDrive\Documentos\Visual Studio 2022\3er - copia\3er\obj\Debug\net8.0\3er.AssemblyInfoInputs.cache
+C:\Users\joseb\OneDrive\Documentos\Visual Studio 2022\3er - copia\3er\obj\Debug\net8.0\3er.AssemblyInfo.cs
+C:\Users\joseb\OneDrive\Documentos\Visual Studio 2022\3er - copia\3er\obj\Debug\net8.0\3er.csproj.CoreCompileInputs.cache
+C:\Users\joseb\OneDrive\Documentos\Visual Studio 2022\3er - copia\3er\obj\Debug\net8.0\3er.dll
+C:\Users\joseb\OneDrive\Documentos\Visual Studio 2022\3er - copia\3er\obj\Debug\net8.0\refint\3er.dll
+C:\Users\joseb\OneDrive\Documentos\Visual Studio 2022\3er - copia\3er\obj\Debug\net8.0\3er.pdb
+C:\Users\joseb\OneDrive\Documentos\Visual Studio 2022\3er - copia\3er\obj\Debug\net8.0\3er.genruntimeconfig.cache
+C:\Users\joseb\OneDrive\Documentos\Visual Studio 2022\3er - copia\3er\obj\Debug\net8.0\ref\3er.dll
